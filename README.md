@@ -145,7 +145,7 @@
 <p><strong>Email:</strong>sankathalalakshmikaveri93@gmail.com</p>
 <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kaveri03/">linkedin.com/in/s-lakshmi-kaveri</a></p>
 <p><strong>GitHub:</strong> <a href="https://github.com/kaveri93">github.com/lakshmikaveri</a></p>
-<p><strong>Live Demo — [Click Here to View the Application] :</strong> <a href="dffg"></a></p>
+<p><strong>Live Demo — [Click Here to View the Application] :</strong> <a href="https://student-performance-prediction-0zl4.onrender.com"></a></p>
 <p>This project is open source and available under the MIT License.</p>
 <p>Built with ❤️ by Lakshmi kaveri — Python Developer & Machine Learning Enthusiast</p>
 
