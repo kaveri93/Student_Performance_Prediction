@@ -2,24 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>🚀 Student Performance Prediction — OOP Implementation</title>
-  <style>
-    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f4f7f9; margin: 0; padding: 20px; line-height: 1.6; }
-    h1, h2 { color: #2c3e50; }
-    h1 { text-align: center; font-size: 36px; margin-bottom: 20px; }
-    h2 { margin-top: 30px; font-size: 24px; border-bottom: 2px solid #74ebd5; padding-bottom: 5px; }
-    p { font-size: 16px; color: #333; text-align: justify; }
-    table { width: 100%; border-collapse: collapse; margin-top: 15px; }
-    table, th, td { border: 1px solid #ccc; }
-    th { background: #74ebd5; color: #2c3e50; padding: 10px; text-align: left; }
-    td { padding: 10px; }
-    ol, ul { margin-left: 20px; }
-    code { background: #eee; padding: 2px 6px; border-radius: 4px; }
-  </style>
+  
 </head>
 <body>
   <h1>🚀 Student Performance Prediction — OOP Implementation with Flask Deployment</h1>
-  <p>Python • scikit-learn • Flask • License: MIT</p>
 
   <h2>📑 Table of Contents</h2>
   <ul>
@@ -159,6 +145,7 @@
 <p><strong>Email:</strong>sankathalalakshmikaveri93@gmail.com</p>
 <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/kaveri03/">linkedin.com/in/s-lakshmi-kaveri</a></p>
 <p><strong>GitHub:</strong> <a href="https://github.com/kaveri93">github.com/lakshmikaveri</a></p>
+<p><strong>Live Demo — [Click Here to View the Application] :</strong> <a href="dffg"></a></p>
 <p>This project is open source and available under the MIT License.</p>
 <p>Built with ❤️ by Lakshmi kaveri — Python Developer & Machine Learning Enthusiast</p>
 
