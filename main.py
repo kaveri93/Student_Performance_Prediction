@@ -69,7 +69,6 @@ class Student_Performance_Project:
                 denominator = denominator + ((self.Testing_Data['y_test'][i] - self.Testing_Data['y_test'].mean())**2)
                 r2_score_value_manually = 1-numerator/denominator
             print(f"Test accuracy manually : {r2_score_value_manually}")
-            print(f" Test loss Manually : {np.sqrt(s / len(self.Testing_Data)-1)}")
             print(f"Test Accuracy : {r2_score(self.y_test, self.y_test_predictions)}")
             print(f"Test Loss : {root_mean_squared_error(self.y_test, self.y_test_predictions)}")
         except Exception as e:
